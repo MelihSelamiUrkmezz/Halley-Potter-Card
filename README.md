@@ -7,7 +7,7 @@ Taha Pek - Melih Selami Ürkmez.
 # Description
   * DbOperations folder has converter base64 for card image and CRUD operations for database
   
-  * Services folder has Wep api file for login and database also has kuberneties for manangment
+  * Services folder has Wep api file for login and database also has kubernetes for management.
   
   * MemoryGame folder has android Project with kotlin
   
@@ -17,13 +17,13 @@ Taha Pek - Melih Selami Ürkmez.
 # Contents
   * Android Studio Kotlin
   * Mysql
-  * Kuberneties
+  * Kubernetes
   * Cloud
 
 
 # How to Use It
   * First you have to clone `git clone https://github.com/tahapek5454/Memory-Card-Game.git`
-  * You have to connect your local databaset connection string
+  * You have to connect your local database connection string
   * After that build gradel and run
  
 # Image
