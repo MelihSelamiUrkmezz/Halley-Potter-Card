@@ -32,6 +32,13 @@ Taha Pek - Melih Selami Ürkmez.
   * You have to connect your local database connection string
   * After that build gradel and run
  
+ # Login Architecture
+ <p align="center">
+  <img src="/Images/phoneImage/Yazlab3LoginARCH.png" width="200" alt="accessibility text">
+</p>
+ 
+ 
+ 
 # Image
  <p align="center">
   <img src="/Images/phoneImage/login.png" width="200" alt="accessibility text">
