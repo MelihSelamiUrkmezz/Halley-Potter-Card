@@ -1,5 +1,6 @@
 # Memory-Card-Game
-We make a memory card game with kotlin name of Harry Potter.
+Actually, we wanted to make a little memory game.
+If you wanna listen to the music you can sound on now!
 
 # Owner
 Taha Pek - Melih Selami Ürkmez.
@@ -12,6 +13,7 @@ Taha Pek - Melih Selami Ürkmez.
   * MemoryGame folder has android Project with kotlin.
   
   * RaportedLatex folder has detail description document about all project.
+  
   
   
 # Contents
