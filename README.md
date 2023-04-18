@@ -29,7 +29,7 @@ Taha Pek - Melih Selami Ürkmez.
 # Image
 
 <p align="center">
-  <img src="https://github.com/tahapek5454/Memory-Card-Game/blob/main/Images/phoneImage/game.png" width="200" alt="accessibility text">
+  <img src="/Images/phoneImage/game.png" width="200" alt="accessibility text">
 </p>
 
  
