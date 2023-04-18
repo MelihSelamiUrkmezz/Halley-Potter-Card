@@ -34,7 +34,7 @@ Taha Pek - Melih Selami Ürkmez.
  
  # Login Architecture
  <p align="center">
-  <img src="/Images/phoneImage/Yazlab3LoginARCH.png" width="200" alt="accessibility text">
+  <img src="/Images/Yazlab3LoginARCH.png" width="200" alt="accessibility text">
 </p>
  
  
