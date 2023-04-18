@@ -9,16 +9,20 @@ Taha Pek - Melih Selami Ürkmez.
   
   * Services folder has Wep api file for login and database also has kubernetes for management.
   
-  * MemoryGame folder has android Project with kotlin
+  * MemoryGame folder has android Project with kotlin.
   
-  * RaportedLatex folder has detail description document about all project
+  * RaportedLatex folder has detail description document about all project.
   
   
 # Contents
-  * Android Studio Kotlin
+  * Android Studio/Kotlin
   * Mysql
   * Kubernetes
-  * Cloud
+  * Docker
+  * Python
+  * Google Cloud
+  * Google Kubernetes Engine
+  
 
 
 # How to Use It
@@ -27,13 +31,14 @@ Taha Pek - Melih Selami Ürkmez.
   * After that build gradel and run
  
 # Image
-
+ <p align="center">
   <img src="/Images/phoneImage/login.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/changePass.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/loading.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/mainmenu.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/game.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/game3.png" width="200" alt="accessibility text">
+</p>
 
 
  
