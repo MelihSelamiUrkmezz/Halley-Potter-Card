@@ -28,14 +28,13 @@ Taha Pek - Melih Selami Ürkmez.
  
 # Image
 
-<p align="center">
   <img src="/Images/phoneImage/login.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/changePass.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/loading.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/mainmenu.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/game.png" width="200" alt="accessibility text">
  <img src="/Images/phoneImage/game3.png" width="200" alt="accessibility text">
-</p>
+
 
  
 # Contact
